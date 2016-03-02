@@ -1,9 +1,9 @@
-##CV Nina Bartmann
----
+% CV Nina Bartmann
+=======
 
 
-## EDUCATION
----
+##EDUCATION
+- - -
 
 ### 2015-2016: Tilburg University, The Netherlands   
 * Master of Science in Economics						  
