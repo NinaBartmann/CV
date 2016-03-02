@@ -1,23 +1,22 @@
-->##CV Nina Bartmann<-
+##CV Nina Bartmann
 ---
 
 
-##EDUCATION
+## EDUCATION
 ---
-
 
 ### 2015-2016: Tilburg University, The Netherlands   
->Master of Science in Economics						  
->Track: Behavioral Economics
+* Master of Science in Economics						  
+* Track: Behavioral Economics
 
 ### 2012-2015: Tilburg University, The Netherlands
->Bachelor of Science in Economics; CUM LAUDE
+* Bachelor of Science in Economics; CUM LAUDE
 
 ### 2014: Singapore Management University, Singapore
->Study-Abroad
+* Study-Abroad
 
 ### 2010-2012: Taunusgymnasium Koenigstein, Germany
->ABITUR
+* ABITUR
 
 ### 2010: Mark R. Isfeld Secondary School, Canada
 												  
@@ -27,9 +26,10 @@
 - - -
 
 ### Deloitte Consulting GmbH, Frankfurt, Germany
-* Position: Intern									 July/August 2015
+* Position: Intern - July/August 2015
 * Industry: Financial Services Solutions
 * Deloitte Banking Union Centre in Frankfurt
+
 
 
 ##CURRENT POSITIONS
@@ -41,6 +41,7 @@
 
 ### Student Ambassador, Tilburg University
 * Representative of Tilburg University
+
 
 
 ##QUALIFICATIONS & SKILLS
