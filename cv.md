@@ -1,29 +1,29 @@
-% Nina Bartmann
-% Curriculum Vitae
-
-EDUCATION
-=======
-- - -
-
-### Tilburg University, The Netherlands
-Master of Science in Economics						  2015-2016
-* Track: Behavioral Economics
-
-### Tilburg University, The Netherlands
-Bachelor of Science in Economics; CUM LAUDE			  2012-2015
-
-### Singapore Management University, Singapore
-Study-Abroad										  2014
-
-### Taunusgymnasium Koenigstein, Germany
-ABITUR										   	  2010-2012
-
-### Mark R. Isfeld Secondary School, Canada
-												  2010
+->##CV Nina Bartmann<-
+---
 
 
-WORK EXPERIENCE
-=======
+##EDUCATION
+---
+
+
+### 2015-2016: Tilburg University, The Netherlands   
+>Master of Science in Economics						  
+>Track: Behavioral Economics
+
+### 2012-2015: Tilburg University, The Netherlands
+>Bachelor of Science in Economics; CUM LAUDE
+
+### 2014: Singapore Management University, Singapore
+>Study-Abroad
+
+### 2010-2012: Taunusgymnasium Koenigstein, Germany
+>ABITUR
+
+### 2010: Mark R. Isfeld Secondary School, Canada
+												  
+
+
+##WORK EXPERIENCE
 - - -
 
 ### Deloitte Consulting GmbH, Frankfurt, Germany
@@ -32,8 +32,7 @@ WORK EXPERIENCE
 * Deloitte Banking Union Centre in Frankfurt
 
 
-CURRENT POSITIONS
-=======
+##CURRENT POSITIONS
 - - -
 
 ### Student Assistant, Recruitment & Admissions Office, Tilburg University
@@ -44,8 +43,7 @@ CURRENT POSITIONS
 * Representative of Tilburg University
 
 
-QUALIFICATIONS & SKILLS
-=======
+##QUALIFICATIONS & SKILLS
 - - -
 
 * Languages
@@ -61,5 +59,4 @@ QUALIFICATIONS & SKILLS
 * Volunteering and Leadership
     * Tilburg Lacrosse
     	- Member of the coaching team of the women's team
-
 
