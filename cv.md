@@ -65,6 +65,6 @@
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6EyCtwJkYplwGOd8XmwoJHMENGD4lmw1O7HIlhK9DpLZ3ZSBi)
 <https://nl.linkedin.com/in/ninabartmann>
 
-A link to [Assignment 2: Part A]: <http://ninabartmann.github.io/assignment2>
+A link to [Assignment 2: Part A]: <http://ninabartmann.github.io/assignment2/nina>
 <br> 
-A link to [Assignment 2: Part B]: <https://github.com/ninabartmann/assignment2>
+A link to [Assignment 2: Part B]: <http://ninabartmann.github.io/assignment2/presentation2>
