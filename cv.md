@@ -68,3 +68,6 @@
 A link to [Assignment 2: Part A]: <http://ninabartmann.github.io/assignment2/nina>
 <br> 
 A link to [Assignment 2: Part B]: <http://ninabartmann.github.io/assignment2/presentation2>
+<br> 
+A link to Group Assignment 3 (html version of the Python-Notebook): <http://ilaureys.github.io/Assignment3/Assignment3>
+The Python-Notebook can be downloaded here: <http://ilaureys.github.io/Assignment3/Assignment3.ipynb>
